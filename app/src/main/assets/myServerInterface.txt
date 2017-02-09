@@ -1,0 +1,1 @@
+$$$$$$${"myNewses":[{"title":"新闻","link":"http://baidu.com"},{"title":"小说","link":"http://baidu.com"},{"title":"视频","link":"http://baidu.com"}]}$$$$$$$
